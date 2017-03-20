@@ -1,0 +1,26 @@
+{
+  "extends": [
+    "airbnb",
+    "plugin:flowtype/recommended"
+  ],
+  "plugins": [
+    "flowtype",
+    "compat"
+  ],
+  "env": {
+    "browser": true,
+    "jest": true
+  },
+  "settings": {
+    "polyfills": ["fetch"]
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "linebreak-style": 0,
+    "import/newline-after-import": 0,
+    "eol-last": [2, "never"],
+    "semi": [2, "never"],
+    "no-unexpected-multiline": 2,
+    "compat/compat": 2
+  }
+}
