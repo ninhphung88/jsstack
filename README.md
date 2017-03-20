@@ -1,0 +1,2 @@
+[![Build Status](https://img.shields.io/travis/ninhphung88/jsstack.svg?style=flat-square)](https://travis-ci.org/GITHUB-USERNAME/GITHUB-REPO)
+[![Coverage Status](https://img.shields.io/coveralls/ninhphung88/jsstack.svg?style=flat-square)](https://coveralls.io/github/GITHUB-USERNAME/GITHUB-REPO?branch=master)
